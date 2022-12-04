@@ -1,0 +1,335 @@
+body {
+    font-family: 'Archivo', sans-serif;
+    background-color: #F3ECE1;
+}
+
+header {
+    background-color: #1F2124;
+}
+
+nav {
+    background-color: #1F2124;
+}
+
+nav .nav-link {
+    color: #F3ECE1;
+    font-size: 15pt;
+    font-weight: bold;
+}
+
+nav .nav-link:hover {
+    color: #F26C3F;
+}
+
+.form-control {
+    border-width: 3px;
+    border-color: #F26C3F;
+}
+
+.form-control:hover {
+    border-color: #F3ECE1;
+}
+
+.dropdown-item {
+    color: #FE6C3B;
+}
+
+.dropdown-item:hover {
+    color: #1F2124;
+}
+
+.display-1 {
+    color: #F3ECE1;
+    font-weight: 700;
+}
+
+.display-2 {
+    color: #F3ECE1;
+    font-weight: 700;
+}
+
+.display-4 {
+    color: #1F2124;
+}
+
+span {
+    color: #1F2124;
+}
+
+.btn {
+    font-family: 'Archivo', sans-serif;
+    background-color: #F26C3F;
+    color: #F3ECE1;
+
+}
+
+.btn:hover {
+    background-color: #CCDBF0;
+    color: #1F2124;
+
+}
+
+#carousel p{
+    font-weight: bold;
+    color: #F3ECE1;
+}
+
+h3 {
+    background-color: #F3ECE1;
+    color: #1F2124;
+    font-style: italic;
+}
+
+.subtitulos {
+    color: #F3ECE1;
+    font-size: 40px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.carousel-indicators button:hover {
+    background-color: #F26C3F;
+}
+
+.card-text {
+    text-align: left;
+}
+
+.about-us {
+    font-size: 20px;
+}
+
+.accordion-button {
+    background-color: #1F2124;
+    color: #F3ECE1;
+}
+
+.accordion-button::after {
+    background-color: #FE6C3B;
+}
+
+.accordion-item {
+    background-color: #F3ECE1;
+}
+
+
+.card-direction {
+    background-color: #CEDBF1;
+}
+
+.card-text-direction {
+    color: #1F2124
+}
+
+.card-title-direction {
+    color: #1F2124;
+}
+
+
+
+#dali .card-cover {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("img/galeria-inicio1.jpg");
+}
+
+#dali .card-cover:hover {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("img/galeria-inicio1.jpg");
+}
+
+#dali h4 {
+    color: #F26C3F;
+}
+
+#frida .card-cover {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("img/galeria-inicio2.jpg");
+}
+
+#frida .card-cover:hover {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("img/galeria-inicio2.jpg");
+}
+
+#hopper .card-cover {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("img/galeria-inicio3.jpg");
+}
+
+#hopper .card-cover:hover {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/galeria-inicio3.jpg");
+}
+
+#takashi .card-cover {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("img/galeria-inicio4.jpg");
+}
+
+#takashi .card-cover:hover {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("img/galeria-inicio4.jpg");
+}
+
+#takashi h4 {
+    color: #F26C3F;
+}
+
+#eventos h5 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: x-large;
+    color: #F26C3F;
+}
+
+
+#galeria h4 {
+    text-shadow: #1F2124 5px 0 6px;
+
+}
+
+#galeria .subtitulos {
+    color: #F26C3F;
+}
+
+#testimonios .subtitulos {
+    color: #F26C3F;
+}
+
+#testimonios h5 {
+    color: #F26C3F;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+#testimonios p {
+    color: #1F2124;
+    font-family: 'Raleway', sans-serif;
+}
+
+#testimonios .img-thumbnail {
+    background-color: #bfcef1
+}
+
+#Contacto {
+    background-color: #F26C3F;
+}
+
+#redes ul li {
+    list-style-type: none;
+    margin: 10px;
+}
+
+#redes ul li a {
+    color: white;
+}
+
+#redes ul li a:hover {
+    color: #1F2124;
+}
+
+
+/* NOSOTROS.HTML */
+
+#museoinfo h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 45px;
+    color: #1F2124;
+}
+
+.movimiento {
+    color: #F26C3F;
+    font-size: 21px;
+}
+
+.info1 {
+    color: #1F2124;
+    font-size: 17px;
+}
+
+.info2 {
+    color: #1F2124;
+    font-size: 17px;
+}
+
+/* NOSOTROS FIN */
+
+
+/* COLECCIONES.HTML */
+
+#colecciones-pag h1 {
+    color: #F26C3F;
+
+}
+
+#colecciones-pag h2 {
+    font-size: x-large;
+    font-weight: lighter;
+    color: #1F2124;
+
+}
+
+#colecciones-pag li {
+    overflow: hidden;
+    transition: .2s ease-in;
+}
+
+#colecciones-pag li:hover {
+    transform: scale(1.1);
+    transition: .4s ease-in-out;
+}
+
+#colecciones-pag p {
+    font-family: 'Raleway', sans-serif;
+}
+
+#colecciones-pag h3 {
+    font-style: normal;
+    font-weight: bold;
+}
+
+/* COLECCIONES FIN */
+
+/* TIENDA.HTML */
+
+#offcanvasRightLabel {
+    font-size: x-large;
+}
+
+/* FIN TIENDA.HTML */
+
+
+/* CONTACTO.HTML */
+
+.card-direction {
+    background-color: #CEDBF1;
+}
+
+.card-text-direction {
+    color: #1F2124;
+}
+
+.card-title-direction {
+    font-family: 'Raleway', sans-serif;
+    font-size: 35px;
+    color: #1F2124;
+}
+
+.map-responsive {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.map-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+#visitas {
+    font-size: x-large;
+    font-weight: lighter;
+    color: #1F2124;
+}
+
+#visitas-title {
+    color: #F26C3F;
+}
+
+/* FIN CONTACTO.HTML */
